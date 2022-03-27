@@ -1,0 +1,62 @@
+/* Feel free to style me! */
+
+html{
+	text-align: center;
+}
+
+body{
+	background-color: #B2BEB5;
+    
+}
+
+h2{
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+
+p{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul{
+	list-style-position: inside;
+}
+
+li{
+	list-style-position: inside;
+}
+
+.nameTitle{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+    background-color: gray;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    font: bold;
+}
+
+.myPhoto{
+    height: 450px;
+    width: 360px;
+    padding-top: 31px;
+}
+
+.myPhoto:hover{
+    transform: scale(1.2);
+}
+
+.footer{
+    background-color: gray;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#intro{
+    padding-top: 20px;
+}
+
+.socials{
+    padding-bottom: 2%;
+}
+
